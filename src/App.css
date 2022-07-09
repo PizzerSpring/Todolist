@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.error {
+  border: 1px solid red;
+}
+
+.errorText {
+  color: red;
+}
+
+.completedtask {
+  opacity: 0.5;
+}
+
+.lightfilter {
+  background: aquamarine;
+}
